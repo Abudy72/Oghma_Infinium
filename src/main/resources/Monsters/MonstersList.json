@@ -1,0 +1,94 @@
+[
+  {
+    "name" : "Rat",
+    "gif" : "https://media.discordapp.net/attachments/953246499381321768/1012493522928140338/16614676479504713586730745655077.gif",
+    "attack": 1,
+    "hp" : 3,
+    "level" : 1
+  },
+  {
+    "name" : "Rat Guard",
+    "gif" : "https://media.discordapp.net/attachments/953246499381321768/1012494627959488562/16614679193426930139952562772647.gif",
+    "attack": 2,
+    "hp" : 1,
+    "level" : 2
+  },
+  {
+    "name" : "Rat Warrior",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1022672688029892718/c7fbc9f397e859ba339a1901cef47a96.gif",
+    "attack": 2,
+    "hp" : 7,
+    "level" : 2
+  },
+  {
+    "name" : "Rat Heavy",
+    "gif" : "https://media.discordapp.net/attachments/953246499381321768/1012494405262905414/16614678688505479046871017741254.gif",
+    "attack": 3,
+    "hp" : 15,
+    "level" : 3
+  },
+  {
+    "name" : "Rat Elite",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1021592879380058162/dddy5er-4a36bd6f-b1f5-4c38-83f2-e915ddfcfa28.gif",
+    "attack": 5,
+    "hp" : 18,
+    "level" : 4
+  },
+  {
+    "name" : "Skeleton Defender",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1022688018823401472/194-1940711_actions-darkest-dungeon-skeleton.png",
+    "attack": 10,
+    "hp" : 1,
+    "level" : 1
+  },
+  {
+    "name" : "Sheev",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1023747887181602847/pestilens-plague-monk-warhammer-fantasy.gif",
+    "attack": 10,
+    "hp" : 5,
+    "level" : 0
+  },
+  {
+    "name" : "Ta' Kaloon",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1023670406843990076/f35c3b2a35af8fc269cb0bce97e12f89.png",
+    "attack": 5,
+    "hp" : 55,
+    "level" : 0
+  },
+  {
+    "name" : "Ragoor The Commander",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1023757354635886612/edited.png",
+    "attack": 3,
+    "hp" : 80,
+    "level" : 0
+  },
+  {
+    "name" : "Shrieker",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1023766943284613230/b0848265762736ab7678c64d851ec974.png",
+    "attack": 5,
+    "hp" : 60,
+    "level" : 1
+  },
+  {
+    "name" : "Shrieker2",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1023769896607285258/128eaac397d5fd8a45f6628070773295.png",
+    "attack": 1,
+    "hp" : 5,
+    "level" : 1
+  },
+  {
+    "name" : "Necromancer",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1021610030648270888/tumblr_bab4c5faa1b603456277863226f0a814_fb6576fc_540.jpg",
+    "attack": 60,
+    "hp" : 5,
+    "level" : 5
+  },
+  {
+    "name" : "Necromancer",
+    "gif" : "https://cdn.discordapp.com/attachments/953246499381321768/1021613519235465266/images.png",
+    "attack": 15,
+    "hp" : 25,
+    "level" : 6
+  }
+]
+
